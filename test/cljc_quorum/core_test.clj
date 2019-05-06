@@ -1,6 +1,6 @@
-(ns monq.core-test
+(ns cljc-quorum.core-test
   (:require [clojure.test :refer :all]
-            [monq.core :refer :all]))
+            [cljs-quorum.core :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."

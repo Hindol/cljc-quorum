@@ -1,4 +1,4 @@
-(ns monq.json-rpc
+(ns cljc-quorum.json-rpc
   (:require [ajax.core :as ajax]))
 
 (defn request
