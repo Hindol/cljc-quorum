@@ -1,4 +1,4 @@
-(defproject org.github.hindol/cljc-quorum "0.0.1"
+(defproject com.github.hindol/cljc-quorum "0.0.1"
   :description "Quroum (blockchain) JSON-RPC wrapper in Clojure"
   :url "https://github.com/Hindol/cljc-quorum"
   :license {:name "MIT License"
